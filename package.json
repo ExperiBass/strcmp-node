@@ -1,0 +1,23 @@
+{
+  "name": "strcmp-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/strcmp.js",
+  "bin": {
+    "strcmp": "./src/strcmp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExperiBass/strcmp-node.git"
+  },
+  "author": "ExperiBass",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ExperiBass/strcmp-node/issues"
+  },
+  "homepage": "https://github.com/ExperiBass/strcmp-node#readme",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "commander": "^8.3.0"
+  }
+}
